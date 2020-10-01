@@ -1,4 +1,3 @@
-#before writing a program you should always add a comment it is a good habit 
 from kivymd.app import MDApp
 from kivymd.uix.textfield import MDTextFieldRect
 from kivymd.uix.boxlayout import BoxLayout
